@@ -49,8 +49,7 @@ frontmatter is available under the [Apache License, Version 2.0](http://www.apac
 
 master: [![Build Status](https://travis-ci.org/ericaro/frontmatter.png?branch=master)](https://travis-ci.org/ericaro/frontmatter) against go versions:
 
-  - 1.0
-  - 1.1
   - 1.2
   - 1.3
+  - 1.4
   - tip
