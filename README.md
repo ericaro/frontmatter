@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ericaro/frontmatter.png?branch=master)](https://travis-ci.org/ericaro/ringbuffer) [![GoDoc](https://godoc.org/github.com/ericaro/frontmatter?status.svg)](https://godoc.org/github.com/ericaro/frontmatter)
+[![Build Status](https://travis-ci.org/ericaro/frontmatter.png?branch=master)](https://travis-ci.org/ericaro/frontmatter) [![GoDoc](https://godoc.org/github.com/ericaro/frontmatter?status.svg)](https://godoc.org/github.com/ericaro/frontmatter)
 
 # Frontmatter 
 
@@ -49,7 +49,6 @@ frontmatter is available under the [Apache License, Version 2.0](http://www.apac
 
 master: [![Build Status](https://travis-ci.org/ericaro/frontmatter.png?branch=master)](https://travis-ci.org/ericaro/frontmatter) against go versions:
 
-  - 1.2
   - 1.3
   - 1.4
   - tip
